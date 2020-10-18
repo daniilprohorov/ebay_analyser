@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TestApiEbay", "TestApiEbay\TestApiEbay.fsproj", "{F3073DD9-05F6-4D4C-BFD4-48DBA83444A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3073DD9-05F6-4D4C-BFD4-48DBA83444A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3073DD9-05F6-4D4C-BFD4-48DBA83444A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3073DD9-05F6-4D4C-BFD4-48DBA83444A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3073DD9-05F6-4D4C-BFD4-48DBA83444A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
